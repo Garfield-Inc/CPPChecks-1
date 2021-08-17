@@ -40,7 +40,7 @@ void foo_vulnerable() {
 	}
 }
 
-void foo()_fixed {
+void foo_fixed() {
 	int i = get();
 	int j = 1;
 	while (1) {
