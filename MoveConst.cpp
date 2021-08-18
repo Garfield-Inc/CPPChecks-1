@@ -1,3 +1,5 @@
+#include <iostream>
+
 class X{
     /* custom copy and move constructors defined */
 };
